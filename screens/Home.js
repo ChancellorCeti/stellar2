@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import {Text,View,Stylesheet,TouchableOpacity,SafeAreaView,Platform,StatusBar,Image,ImageBackground} from react-native;
+import {Text,View,StyleSheet,TouchableOpacity,SafeAreaView,Platform,StatusBar,Image,ImageBackground} from 'react-native';
 export default class Home extends Component{
     render(){
     return(
