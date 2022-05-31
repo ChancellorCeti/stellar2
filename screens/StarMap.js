@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import {Text,View,Stylesheet} from react-native;
+import {Text,View,StyleSheet} from 'react-native';
 export default class StarMap extends Component{
     render(){
     return(
